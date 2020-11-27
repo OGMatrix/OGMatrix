@@ -2,7 +2,6 @@ name: Latest YouTube Videos
 on:
   schedule:
     - cron: '0 * * * *'
-  workflow-dispatch:
 
 jobs:
   update-readme-with-youtube:
