@@ -1,6 +1,6 @@
 ### Hi there, I'm Lukas - aka [OGMatrix][website] 👋
 
-## I'm a Student, YouTuber and Developer!!
+## I'm a Student and a Developer!
 
 - 🌱 I’m currently learning TypeScript 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -20,6 +20,5 @@
 
 </details>
 
-[website]: https://www.matrixbots.xyz/
-[twitter]: https://twitter.com/@matrix_himself
-[youtube]: https://youtube.com/u/OGMatrix
+[website]: https://www.gghilfe.de/
+[twitter]: https://twitter.com/@matrix_himsel
