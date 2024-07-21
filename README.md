@@ -4,8 +4,11 @@
 
 - 🌱 I’m currently learning TypeScript 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play keyboard 
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play keyboard
+
+## Check out promptify.ts on npm and github
+## [Check it out](https://www.npmjs.com/package/promptify.ts)
 
 
 <br />
